@@ -1,0 +1,6 @@
+wheel
+requests
+six 
+urllib3 
+aiofile 
+
